@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Randu Pratama
-- 👀 I’m interested in visual graphic, meme, anime, mangaa nd music
+- 👀 I’m interested in visual graphic, meme, anime, manga and music
 - 🌱 I’m currently learning front end framework such as next.js and testing framework jest.js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
